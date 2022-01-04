@@ -1,8 +1,11 @@
 .Main-site {
-    display: flex;
-    padding: 15px;
-    border: 2px solid grey;
-    margin-top: 15px;
-    justify-content: space-around;
+    /*display: flex;*/
+    /*padding: 15px;*/
+    /*border: 2px solid grey;*/
+    /*margin-top: 15px;*/
+    /*justify-content: space-around;*/
     align-items: center;
+    width: 100%;
+    background: #D8E3AB;
+    height: 70px;
 }
