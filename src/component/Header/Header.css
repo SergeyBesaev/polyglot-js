@@ -1,0 +1,8 @@
+.Header-site {
+    display: flex;
+    padding: 15px;
+    border: 2px solid gray;
+    margin-top: 15px;
+    justify-content: space-around;
+    align-items: center;
+}
