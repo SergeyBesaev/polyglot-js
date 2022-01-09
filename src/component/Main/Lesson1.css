@@ -3,9 +3,9 @@
     /*padding: 15px;*/
     /*border: 2px solid grey;*/
     /*margin-top: 15px;*/
-    /*justify-content: space-around;*/
-    align-items: center;
+    justify-content: space-around;
+    align-self: center;
     width: 100%;
-    background: #D8E3AB;
+    background: white;
     height: 70px;
 }

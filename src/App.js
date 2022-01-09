@@ -1,8 +1,6 @@
 import React, {useState} from "react";
 import Header from "./component/Header/Header";
-import Footer from "./component/Footer/Footer";
-import Main from "./component/Main/Main";
-import Menu from "./component/Menu/Menu";
+import Lesson1 from "./component/Main/Lesson1";
 
 function App() {
     const [post, setPost] = useState([])
@@ -11,7 +9,7 @@ function App() {
   return (
     <div className="App">
         <Header/>
-        <Main/>
+        <Lesson1/>
     </div>
   );
 }
